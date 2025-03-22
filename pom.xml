@@ -27,13 +27,6 @@
             <version>4.9.1</version>
         </dependency>
 
-        <!-- Selenium DevTools (Correct Artifact Name) -->
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-devtools</artifactId>
-            <version>4.11.0</version>
-        </dependency>
-
         <!-- WebDriver Manager -->
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
